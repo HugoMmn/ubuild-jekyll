@@ -10,5 +10,11 @@ fields:
 - type: file
   label: Logo
   name: logo
+- name: about
+  type: text
+  config:
+    required: false
+  label: About
+  description: Miaou
 pages:
 - Blog.md
