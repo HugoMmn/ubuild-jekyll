@@ -7,8 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "/posts"
-    link_text: ''
+  - link: " _posts/2020-11-29-Test.md"
+    link_text: Blog
   - link: "/"
     link_text: Ubuild
   - link: "#swap"
